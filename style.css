@@ -1,0 +1,146 @@
+
+/* whole page */
+body{
+padding: 0;
+background-color: #283149;
+margin: 0;
+text-align: center;
+}
+
+/* text in page */
+
+h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+    margin-bottom: 40px;
+}
+
+#m-s-h1{
+    margin: 20px;
+}
+
+h3{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    /* font-size: 4rem; */
+    color: #4ECCA3;
+}
+
+h4{
+    font-family: 'Lobster', cursive;
+    /* text-shadow: 5px 0 #232931; */
+    /* font-size: 4rem; */
+    color: #5fdab1;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* button or a tag for choise */
+.btn-div{
+    margin-top: 150px;
+}
+
+.btn-div-m-s{
+    margin-top: 0px;
+}
+
+.bttn{
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+}
+
+.bttn-ms{
+    margin: 0 20px;
+    /* padding: 20px; */
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+}
+
+/* grid for game */
+
+.container-s{
+    margin: 3rem 35rem 4rem;
+    padding: 0;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
+}
+.col{
+    margin: 0;
+    padding: 0;
+
+}
+
+.c-1{
+    border-top:    3px solid #4ECCA3;
+    border-right:  3px solid #4ECCA3; 
+    border-bottom: 3px solid #4ECCA3;
+}
+
+.c-2{
+    border-top:    3px solid #4ECCA3;
+    border-right:  3px solid #4ECCA3; 
+    border-bottom: 3px solid #4ECCA3;
+    border-left: 3px solid #4ECCA3;
+}
+
+.c-3{
+    border-top:    3px solid #4ECCA3;
+    border-left:  3px solid #4ECCA3; 
+    border-bottom: 3px solid #4ECCA3;
+}
+
+.rb-1{
+    border-top: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.rb-3{
+    border-bottom: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.rb-2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+/* image */
+img{
+    width: 25px;
+    height: 25px;
+    visibility: hidden;
+}
+
+/* footer */
+
+footer{
+    margin-top: 9rem;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+}
+
+#foot-ms{
+    margin-top: 36px;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+}
