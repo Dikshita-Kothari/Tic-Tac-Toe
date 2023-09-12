@@ -70,7 +70,7 @@ p{
 /* grid for game */
 
 .container-s{
-    margin: 3rem 35rem 4rem;
+    margin: 3% 40% 4%;
     padding: 0;
 }
 
@@ -143,4 +143,15 @@ footer{
     text-align: center;
     font-family: 'Indie Flower', cursive;
     font-size: 1.5rem;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* for mobile view */
+    .container-s{
+        margin: 25% 4% 30%;
+    }
+    h1{
+        font-size: 50px;
+    }
 }
